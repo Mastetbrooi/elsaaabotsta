@@ -1,6 +1,6 @@
 # MIT License
 
-# Copyright (c) 2022 Muhammed
+# Copyright (c) 2022 MaSTeR
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# Telegram Link : https://telegram.dog/Mo_Tech_Group
+# Telegram Link : https://t.me/filmshomecome
 # Repo Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot
 # License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
